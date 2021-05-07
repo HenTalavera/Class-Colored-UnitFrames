@@ -1,0 +1,10 @@
+## Title: Class Colored UnitFrames
+## Interface: 90005
+## Author: Heomel
+## Notes: Changes UnitFrames background or healthbars to match class color & adds an alignment grid.
+## Version: 2.1.3
+
+## SavedVariables: UnitFrameType
+
+Core\Class Colored UnitFrames.lua
+Core\Alignment.lua
